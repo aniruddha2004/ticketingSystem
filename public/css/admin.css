@@ -1,0 +1,49 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #343a40;
+}
+
+h2 {
+    color: #495057;
+    margin-bottom: 1rem;
+}
+
+.list-group-item {
+    border: 1px solid #dee2e6;
+    margin-bottom: 1rem;
+    padding: 1.5rem;
+    background-color: #ffffff;
+}
+
+.list-group-item ul {
+    padding-left: 1.5rem;
+    margin-top: 1rem;
+}
+
+.list-group-item small {
+    font-size: 0.85rem;
+    color: #6c757d;
+}
+
+button.btn-success {
+    margin-top: 1rem;
+}
+
+button.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+}
+
+button.btn-danger:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+}
+

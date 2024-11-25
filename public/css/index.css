@@ -1,0 +1,25 @@
+body {
+    background-color: #e9ecef;
+    font-family: 'Arial', sans-serif;
+}
+
+.welcome-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #343a40;
+}
+
+p {
+    font-size: 1.25rem;
+    color: #495057;
+}
+
+p .btn-link {
+    color: #007bff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+p .btn-link:hover {
+    text-decoration: underline;
+}
